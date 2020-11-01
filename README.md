@@ -16,6 +16,7 @@ The following is a screenshot preview of the game:
 
 A Start Quiz button
 This starts a timer for the user
+
 ![code quiz](./Assets/Starting_page.png)
 
 ![code quiz](./Assets/game_on.png)
