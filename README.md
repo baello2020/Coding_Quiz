@@ -22,3 +22,11 @@ The following is a screenshot preview of the game:
 ![Scores](https://github.com/baello2020/Coding_Quiz/blob/main/Assets/view_score.PNG "scores")
 
 ![Decaprio Clapping](https://github.com/baello2020/Coding_Quiz/blob/main/Assets/weldone.PNG "Decaprio Clapping")
+
+Authors
+Orlando Baello - Initial work - [GitHub Profile](https://github.com/baello2020)
+
+Acknowledgments
+Hat tip to University of Washington for providing the project examples.
+
+![UW](https://github.com/baello2020/Coding_Quiz/blob/main/Assets/UW.PNG "UW")
