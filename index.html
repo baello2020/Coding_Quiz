@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coding Quiz</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <header>
+        <a id="view_highscore_link" href="">View All Scores</a>
+        <br>
+        <span id="time">Time: <span id="time_display"> 0:00</span></span>
+        <br>
+    </header>
+
+    <main>
+        <section id="starting_page" class="page">
+            <h1>Coding Quiz Challenge</h1>
+
+            <p>Answer 16 questions. You have two minutes and fourty second. every incorrect answer, ten seconds will be deducted from the timer.</p>
+            
+            <button id="start_quiz_button">Start Quiz</button>
+        </section>
+
+        <section id="question_page" class="page hidden">
+
+            <h2 id="question_display"></h2>
+
+            <div id="answer_list"></div>
+
+            <hr>
+
+            <div id="feedback">Correct!</div>
+
+            <div id="question_numbers_box"></div>
+        </section>
+
+        <section id="get_name_page" class="page hidden">
+            <img src="./assets/tenor.gif" alt="">
+
+            <p>Your final score is <span id="score_display"></span>.</p>
+
+            <br>
+
+            <p>Enter your Name: 
+                <input type="text" name="initials" id="initials_input">
+                <button id="submit_initials_button">Submit</button>
+            </p>
+        </section>
+
+        <section id="highscore_page" class="page hidden">
+
+
+            <div id="highscore_list"></div>
+
+            <button id="go_to_starting_page_button">Go Back</button>
+            <button id="clear_highscores_button">Clear Scores</button>
+        </section>
+    </main>
+
+    <script src="./js/scripts.js"></script>
+
+</body></html>
