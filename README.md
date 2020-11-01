@@ -17,11 +17,8 @@ The following is a screenshot preview of the game:
 
 ![starting page](https://github.com/baello2020/Coding_Quiz/blob/main/Assets/Starting_page.PNG "starting page")
 
-![code quiz](./Assets/game_on.png)
+![Game on](https://github.com/baello2020/Coding_Quiz/blob/main/Assets/game_on.PNG "Game On")
 
-![code quiz](./Assets/view_score.png)
+![Scores](https://github.com/baello2020/Coding_Quiz/blob/main/Assets/view_score.PNG "scores")
 
-![code quiz](./Assets/weldone.png)
-
-
-
+![Decaprio Clapping](https://github.com/baello2020/Coding_Quiz/blob/main/Assets/weldone.PNG "Decaprio Clapping")
