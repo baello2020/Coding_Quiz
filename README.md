@@ -14,10 +14,8 @@ This project has been deployed to GitHub Pages. To get this project up and runni
 
 The following is a screenshot preview of the game:
 
-A Start Quiz button
-This starts a timer for the user
 
-![code quiz](./Assets/Starting_page.png)
+![starting page](https://github.com/baello2020/Coding_Quiz/blob/main/Assets/Starting_page.PNG "starting page")
 
 ![code quiz](./Assets/game_on.png)
 
