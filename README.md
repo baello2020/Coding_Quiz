@@ -6,9 +6,9 @@ This is a timed quiz, multiple-choice questions and interactive coding challenge
 
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
 
-[GitHub Repository](https://www.google.com)
+[GitHub Repository](https://github.com/baello2020/Coding_Quiz)
 
-[Deployed GitHub IO](https://www.google.com)
+[Deployed GitHub IO](https://baello2020.github.io/Coding_Quiz/)
 
 
 
