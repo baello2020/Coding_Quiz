@@ -14,14 +14,11 @@ This project has been deployed to GitHub Pages. To get this project up and runni
 
 The following is a screenshot preview of the game:
 
-
-![starting page](https://github.com/baello2020/Coding_Quiz/blob/main/Assets/Starting_page.PNG "starting page")
-
-![Game on](https://github.com/baello2020/Coding_Quiz/blob/main/Assets/game_on.PNG "Game On")
+![starting page](https://github.com/baello2020/Coding_Quiz/blob/main/Assets/demo1.gif "starting page")
 
 ![Scores](https://github.com/baello2020/Coding_Quiz/blob/main/Assets/view_score.PNG "scores")
 
-![Decaprio Clapping](https://github.com/baello2020/Coding_Quiz/blob/main/Assets/weldone.PNG "Decaprio Clapping")
+![Decaprio Clapping](https://github.com/baello2020/Coding_Quiz/blob/main/Assets/demo2.gif "Decaprio Clapping")
 
 # Authors
 Orlando Baello - [GitHub Profile](https://github.com/baello2020)
